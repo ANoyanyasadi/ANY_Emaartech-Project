@@ -3,16 +3,16 @@
 
 
 
-# Emaartech Building Company Web Page. Here, You can have information about all building projects of Emaartech. 
+ Emaartech Building Company Web Page. Here, You can have information about all building projects of Emaartech. 
 
 
 
 
-# Used Technologies:
+ Used Technologies:
 
-# • HTML5,
+ • HTML5,
 
-# • CSS,
+ • CSS,
 
 
 
